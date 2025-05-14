@@ -1,0 +1,14 @@
+D:\Навчання\КПЗ\Lab 2\bin\Debug\net8.0\Lab2.exe
+D:\Навчання\КПЗ\Lab 2\bin\Debug\net8.0\Lab2.deps.json
+D:\Навчання\КПЗ\Lab 2\bin\Debug\net8.0\Lab2.runtimeconfig.json
+D:\Навчання\КПЗ\Lab 2\bin\Debug\net8.0\Lab2.dll
+D:\Навчання\КПЗ\Lab 2\bin\Debug\net8.0\Lab2.pdb
+D:\Навчання\КПЗ\Lab 2\obj\Debug\net8.0\Lab2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\КПЗ\Lab 2\obj\Debug\net8.0\Lab2.AssemblyInfoInputs.cache
+D:\Навчання\КПЗ\Lab 2\obj\Debug\net8.0\Lab2.AssemblyInfo.cs
+D:\Навчання\КПЗ\Lab 2\obj\Debug\net8.0\Lab2.csproj.CoreCompileInputs.cache
+D:\Навчання\КПЗ\Lab 2\obj\Debug\net8.0\Lab2.dll
+D:\Навчання\КПЗ\Lab 2\obj\Debug\net8.0\refint\Lab2.dll
+D:\Навчання\КПЗ\Lab 2\obj\Debug\net8.0\Lab2.pdb
+D:\Навчання\КПЗ\Lab 2\obj\Debug\net8.0\Lab2.genruntimeconfig.cache
+D:\Навчання\КПЗ\Lab 2\obj\Debug\net8.0\ref\Lab2.dll
