@@ -1,0 +1,28 @@
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\bin\Debug\net6.0\Lab3.exe
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\bin\Debug\net6.0\Lab3.deps.json
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\bin\Debug\net6.0\Lab3.dll
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\bin\Debug\net6.0\Lab3.pdb
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\obj\Debug\net6.0\Lab3.dll
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\obj\Debug\net6.0\refint\Lab3.dll
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\obj\Debug\net6.0\Lab3.pdb
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+C:\Users\stepa\OneDrive\Рабочий стол\Lab 3\obj\Debug\net6.0\ref\Lab3.dll
+D:\Навчання\КПЗ\Lab 3\bin\Debug\net6.0\Lab3.exe
+D:\Навчання\КПЗ\Lab 3\bin\Debug\net6.0\Lab3.deps.json
+D:\Навчання\КПЗ\Lab 3\bin\Debug\net6.0\Lab3.runtimeconfig.json
+D:\Навчання\КПЗ\Lab 3\bin\Debug\net6.0\Lab3.dll
+D:\Навчання\КПЗ\Lab 3\bin\Debug\net6.0\Lab3.pdb
+D:\Навчання\КПЗ\Lab 3\obj\Debug\net6.0\Lab3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Навчання\КПЗ\Lab 3\obj\Debug\net6.0\Lab3.AssemblyInfoInputs.cache
+D:\Навчання\КПЗ\Lab 3\obj\Debug\net6.0\Lab3.AssemblyInfo.cs
+D:\Навчання\КПЗ\Lab 3\obj\Debug\net6.0\Lab3.csproj.CoreCompileInputs.cache
+D:\Навчання\КПЗ\Lab 3\obj\Debug\net6.0\Lab3.dll
+D:\Навчання\КПЗ\Lab 3\obj\Debug\net6.0\refint\Lab3.dll
+D:\Навчання\КПЗ\Lab 3\obj\Debug\net6.0\Lab3.pdb
+D:\Навчання\КПЗ\Lab 3\obj\Debug\net6.0\Lab3.genruntimeconfig.cache
+D:\Навчання\КПЗ\Lab 3\obj\Debug\net6.0\ref\Lab3.dll
